@@ -1,0 +1,22 @@
+{
+  "name": "express_static_files",
+  "version": "1.0.0",
+  "description": "chambergo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chamjoel/node.git"
+  },
+  "author": "chambergo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chamjoel/node/issues"
+  },
+  "homepage": "https://github.com/chamjoel/node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
